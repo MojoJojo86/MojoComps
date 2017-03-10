@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/* General Layout Style */
+.Side {
+  position: absolute;
+  width: 250px;
+  height: 100%;
+  background-color: #2D3142;
+}
+
+.List {
+  float: left;
+  margin-left: 250px;
+  padding-left: 50px;
+}
+
+/* SideBar related style */
+.brand {
+  font-size: 24px;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
